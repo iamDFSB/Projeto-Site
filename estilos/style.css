@@ -11,3 +11,13 @@ main{
     box-shadow: 3px 3px 3px 5px black;
     padding: 10px;
 }
+.texto{
+ background-color: rgb(153, 198, 238);
+    border: 10px;
+    border-radius: 5px;
+}
+p{
+    margin-top: 10px;
+    color: rgb(91, 97, 102);
+
+}
