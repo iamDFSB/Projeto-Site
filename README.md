@@ -10,5 +10,5 @@ Desejos para o projeto:
 
 - [ ] Dar um grow up no CSS conforme o aprendizado:
    * Colocar imagens
-   * Torna-lo mais responsivo
+   * Torná-lo mais responsivo
    
